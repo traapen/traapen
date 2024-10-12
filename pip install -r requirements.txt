@@ -1,0 +1,6 @@
+BOT_NAME=@BNBEarnAirdropBot
+COUNT=10
+REFER_ID=https://t.me/BNBEarnAirdropBot?start=Bot33296574
+CHANNEL_NAME=@Airdrop_Fam
+DELAY_MIN = 10
+DELAY_MAX = 15
